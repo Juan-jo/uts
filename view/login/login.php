@@ -13,9 +13,13 @@
         <span class="navbar-brand mb-0 h1">UTSC</span>
     </nav>
     <div class="container">
+    
         <h1 class="page-header">Iniciar</h1>
         
-        
+        <?php if(isset($msg)){
+            echo $msg;
+        }
+        ?>
 <form id="frm-login" action="?c=login&a=checkLogin" method="post" enctype="multipart/form-data">
     <div class="form-group">
         <label>Usuario</label>
