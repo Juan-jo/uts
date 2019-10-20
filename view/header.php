@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 	<head>
-		<title>Ejemplo PHP - PDO + MVC</title>
+		<title>UTSC</title>
     <meta name="author" content="Miguel Vega" />
         
     <meta charset="utf-8" />
