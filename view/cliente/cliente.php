@@ -10,7 +10,7 @@
         <tr>
         <th style="width:120px; background-color: #5DACCD; color:#fff">DNI</th>
             <th style="width:180px; background-color: #5DACCD; color:#fff">Nombre</th>
-            <th style=" background-color: #5DACCD; color:#fff">Apellido</th>
+            <th style=" background-color: #5DACCD; color:#fff">Examen</th>
             <th style=" background-color: #5DACCD; color:#fff">Correo</th>
             <th style="width:120px; background-color: #5DACCD; color:#fff">Telefono</th>            
             <th style="width:60px; background-color: #5DACCD; color:#fff"></th>
@@ -22,7 +22,7 @@
         <tr>
          <td><?php echo $r->dni; ?></td>
             <td><?php echo $r->Nombre; ?></td>
-            <td><?php echo $r->Apellido; ?></td>
+            <td><input type="text" name="" class="form-control" placeholder="calificacion" required></td>
             <td><?php echo $r->Correo; ?></td>
             <td><?php echo $r->Telefono; ?></td>
             <td>
