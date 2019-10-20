@@ -2,8 +2,7 @@
 <html lang="es">
 	<head>
 		<title>UTSC</title>
-    <meta name="author" content="Miguel Vega" />
-        
+    
     <meta charset="utf-8" />
         
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
