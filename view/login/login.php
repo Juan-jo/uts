@@ -13,7 +13,7 @@
         <span class="navbar-brand mb-0 h1">UTSC</span>
     </nav>
     <div class="container">
-        <h1 class="page-header">Iniciar sesion</h1>
+        <h1 class="page-header">Iniciar</h1>
         
         
 <form id="frm-login" action="?c=login&a=checkLogin" method="post" enctype="multipart/form-data">
